@@ -461,30 +461,13 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"www.guardian.co.uk"
+                         "value":"<iframe src=\"https:\/\/cryptpad.fr\/pad\/#\/2\/pad\/view\/-77I2-CszuyNpcj6O3hfXmNWoQAVeQdkTeRWjf6+Jkc\/embed\/\"><\/iframe>"
                         }],
                  "rotation":0,
                  "visible":true,
                  "width":635.5,
                  "x":1,
                  "y":736.5
-                }, 
-                {
-                 "class":"website",
-                 "height":121,
-                 "id":27,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"www.guardian.co.uk"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":280,
-                 "x":292.75,
-                 "y":67.75
                 }],
          "opacity":1,
          "type":"objectgroup",
