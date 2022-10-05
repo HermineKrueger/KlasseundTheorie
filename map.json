@@ -454,7 +454,7 @@
                 }, 
                 {
                  "class":"website",
-                 "height":224,
+                 "height":255.5,
                  "id":25,
                  "name":"",
                  "properties":[
@@ -465,9 +465,9 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":638,
+                 "width":635.5,
                  "x":1,
-                 "y":768
+                 "y":736.5
                 }],
          "opacity":1,
          "type":"objectgroup",
