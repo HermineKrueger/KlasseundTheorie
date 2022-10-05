@@ -468,6 +468,23 @@
                  "width":635.5,
                  "x":1,
                  "y":736.5
+                }, 
+                {
+                 "class":"website",
+                 "height":121,
+                 "id":27,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"www.guardian.co.uk"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":280,
+                 "x":292.75,
+                 "y":67.75
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -560,7 +577,7 @@
          "y":0
         }],
  "nextlayerid":51,
- "nextobjectid":27,
+ "nextobjectid":28,
  "orientation":"orthogonal",
  "properties":[
         {
