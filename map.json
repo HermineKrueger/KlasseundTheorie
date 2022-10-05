@@ -454,23 +454,6 @@
                 }, 
                 {
                  "class":"website",
-                 "height":126.666666666667,
-                 "id":21,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"https:\/\/cryptpad.fr\/whiteboard\/#\/2\/whiteboard\/edit\/tK-6ZKGM5Ns8M9iDzELEkFs5\/"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":288,
-                 "x":289.333333333333,
-                 "y":62.6666666666667
-                }, 
-                {
-                 "class":"website",
                  "height":224,
                  "id":25,
                  "name":"",
