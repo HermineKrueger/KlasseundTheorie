@@ -461,7 +461,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/cryptpad.fr\/whiteboard\/#\/2\/whiteboard\/view\/9vSSXjxhJ8GEQghIPEp2FMu9AhEAl2IZkObZJIthsW8\/"
+                         "value":"https:\/\/cryptpad.fr\/whiteboard\/#\/2\/whiteboard\/edit\/tK-6ZKGM5Ns8M9iDzELEkFs5\/"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -577,7 +577,7 @@
          "y":0
         }],
  "nextlayerid":51,
- "nextobjectid":26,
+ "nextobjectid":27,
  "orientation":"orthogonal",
  "properties":[
         {
