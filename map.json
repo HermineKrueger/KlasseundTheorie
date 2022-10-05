@@ -451,6 +451,23 @@
                  "width":31.8887167947631,
                  "x":832.005610917911,
                  "y":190.506560682662
+                }, 
+                {
+                 "class":"website",
+                 "height":128,
+                 "id":28,
+                 "name":"Programmwebsite",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"cryptpad.fr\/pad\/#\/2\/pad\/view\/-77I2-CszuyNpcj6O3hfXmNWoQAVeQdkTeRWjf6+Jkc\/embed\/"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":288,
+                 "x":289,
+                 "y":64
                 }],
          "opacity":0.9,
          "type":"objectgroup",
@@ -543,7 +560,7 @@
          "y":0
         }],
  "nextlayerid":51,
- "nextobjectid":28,
+ "nextobjectid":29,
  "orientation":"orthogonal",
  "properties":[
         {
