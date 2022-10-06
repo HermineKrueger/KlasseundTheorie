@@ -437,23 +437,6 @@
                 }, 
                 {
                  "class":"website",
-                 "height":33.6281013472048,
-                 "id":19,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":""
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":31.8887167947631,
-                 "x":832.005610917911,
-                 "y":190.506560682662
-                }, 
-                {
-                 "class":"website",
                  "height":153,
                  "id":28,
                  "name":"Whiteboard",
